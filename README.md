@@ -1,2 +1,2 @@
 # Talking-Bot
-Developed a chatbot using a newly created API (by using AI Studio API) and #OpenAI 's speech- to-text recognition for the project. For text-to-speech,we utilised #pyttsx3 (Python Text to Speech Extension 3).
+The “Talking Bot Project” involves developing an interactive chatbot utilizing a custom API created with AI Studio API. For speech-to-text capabilities, it integrates (OpenAI's) advanced recognition technology, allowing the bot to understand spoken language. Text-to-speech functionality is implemented using (pyttsx3), a Python library that converts text into natural-sounding speech. This setup ensures smooth, real-time communication between users and the bot, enhancing its usability and interaction quality.
